@@ -4,3 +4,6 @@ target
 .settings
 .cache*
 .idea*
+*.iml
+*.ipr
+*.iws
